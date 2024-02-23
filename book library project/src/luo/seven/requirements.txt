@@ -1,0 +1,40 @@
+/* Michelle Luo
+ * AP CSA
+ * Period 7
+ * FGE: Cryptography
+ */
+
+ideas-
+- backwards mode for cipher (count numbers from the back)
+- add red herring words for "the" "a" and other common words
+
+
+
+Java Program
+250 line count. Documentation lines without code do not count. Whitespace (all) lines do not count
+Full HEader, Full Documentation
+Min header:  Name, Class,Date,Project in that order vertically
+All top comments 1 white space above comment
+All Side comments tab stopped to right
+NO WRAP
+Landscape format of page is better
+//This is a good comment style
+1 POCO
+-4 fields, all different data types
+-Full getters and setters
+-3 constructors, default, partial, full, in that order
+-Display method: over ride toString() is best otherwise displayClassName();
+Main must heavily implement and exercise the POCO
+10% penalty for the following:
+      trivial code
+10% weighting on originality and design
+Use style guide from class
+If in doubt on style, ask.
+
+Covering mistakes points:
+5 best overall design (b/g)
+5 best documentation (b/g)
+5 best code structure
+1/As discussed in class
+
+Hint: Document periodic section lines of code count
