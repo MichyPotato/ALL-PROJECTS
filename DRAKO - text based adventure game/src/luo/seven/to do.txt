@@ -1,0 +1,59 @@
+/* Michelle Luo
+ * Cmdr. Schenk
+ * October 19th
+ * AP CSA
+ */
+
+- implement music
+- implement pictures...
+
+
+Zork’s Revenge
+Major Project
+Mul-ple Minor and 1x Major grade for this project
+Tl;dr:
+You will build a text-based adventure game in the style of Zork. In Java.
+Specifica8ons:
+DONE 1. Must accept N/n, S/s, E/e, W/w cardinal direc-on commands.
+DONE 2. Ini-al prompt limit is 1 sentence to user then a prompt.
+DONE 3. Must accept simple commands like take, drop, help, look
+    a. Take (or similar command) – pick up object
+    b. Drop (or similar command) – drop object at current loca-on
+    c. Help – display help screen of commands, etc.
+    d. Look – survey immediate surroundings and prompt with what is seen
+    i. Can be the same in a given set of loca-ons like on same path un-l something new is in range. 
+4. Data expecta-ons:
+    i. Track posi-on of each thing. Items in backpack updated with each move 
+    the user makes so that drops have current player posi-on
+    ii. Recommend structs to store posi-on and status of each item (carried or 
+    dropped)
+    iii. Recommend an array to track backpack that cannot hold all the things 
+    you hide along the paths
+iv. Recommend a 2-dim array for each of:
+    1. Default posi-on prompts
+    2. Posi-on responses for “Look”
+    3. (Op-onal) posi-onal responses as a surprise, (i.e. monster jumps 
+    out if carrying wrench.)
+5. Minimums:
+a. 12x12 grid for the adventure. Good games will involve more.
+b. Backpack or satchel that can carry at least 6 items
+c. At least 6 contact interac-ves (monsters, challenges, locked doors requiring keys, 
+etc). Must account for survival or demise or cannot pass locked door/gates, etc.
+d. Must parse cardinal headings
+e. Must parse at least 6 common commands like look, acack, use, etc.
+f. Must have 3 ways for demise of player
+g. Must have a way to successfully win that is not trivial
+Way to 100:
+Well-engineered POCO/Container CLASSES
+More things to find
+More interac-ons
+Bigger/longer course
+Heavy originality
+Pasing user commands that are mul--word
+Outstanding gameplay experience – beyond the norm
+Checkpoints:
+• Func-oning navigable grid (Minor)
+• Basic gameplay of moving and picking up-dropping items (Minor)
+• Pre-submission run-checks (Minor)
+• Submission/Code grade (MAJOR)
+• Peer gameday reviews (Minor)

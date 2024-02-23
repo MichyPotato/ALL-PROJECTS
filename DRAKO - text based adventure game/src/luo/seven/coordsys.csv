@@ -1,0 +1,625 @@
+0,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+2,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+3,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+4,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+5,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+6,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+7,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+8,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+9,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+10,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+11,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+12,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+13,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+14,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+15,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+16,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+17,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+18,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+19,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+20,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+21,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+22,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+23,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+24,0,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,1,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,1,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+2,1,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,1,TRUE,TRUE,TRUE,TRUE,Lake,0,0,2,You drowned. What a poor unfortunate soul.,There is part of a Lake,TRUE
+4,1,TRUE,TRUE,TRUE,TRUE,Lake,0,0,2,You drowned. What a poor unfortunate soul.,There is part of a Lake,TRUE
+5,1,TRUE,TRUE,TRUE,TRUE,Lake,0,0,2,You drowned. What a poor unfortunate soul.,There is part of a Lake,TRUE
+6,1,TRUE,TRUE,TRUE,TRUE,Lake,0,0,2,You drowned. What a poor unfortunate soul.,There is part of a Lake,TRUE
+7,1,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,1,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,1,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,1,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,1,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+12,1,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,1,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,1,TRUE,TRUE,TRUE,TRUE,East-West Heathen Path,0,0,0,0,The Heathen Path continues,TRUE
+15,1,TRUE,TRUE,TRUE,TRUE,East-West Heathen Path,0,0,0,0,The Heathen Path continues,TRUE
+16,1,TRUE,TRUE,TRUE,TRUE,East-West Heathen Path,0,0,0,0,The Heathen Path continues,TRUE
+17,1,TRUE,TRUE,TRUE,TRUE,East-West Heathen Path,0,0,0,0,The Heathen Path continues,TRUE
+18,1,TRUE,TRUE,TRUE,TRUE,East-West Heathen Path,0,0,0,0,The Heathen Path continues,TRUE
+19,1,TRUE,TRUE,TRUE,TRUE,East-West Heathen Path,0,0,0,0,The Heathen Path continues,TRUE
+20,1,TRUE,TRUE,TRUE,TRUE,East-West Heathen Path,0,0,0,0,The Heathen Path continues,TRUE
+21,1,TRUE,TRUE,TRUE,TRUE,East-West East-West Small Path,0,0,0,0,The Small Path continues,TRUE
+22,1,TRUE,TRUE,TRUE,TRUE,East-West Small Path,0,0,0,0,The Small Path continues,TRUE
+23,1,TRUE,TRUE,TRUE,TRUE,WIZARD'S HUT,0,0,0,0,A WIZARD'S HUT stands,TRUE
+24,1,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,2,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,2,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+2,2,TRUE,TRUE,TRUE,TRUE,North-South Bridge,0,0,0,0,A Bridge appears,TRUE
+3,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+4,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+5,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+6,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+7,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+8,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+9,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+10,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+11,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+12,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+13,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+14,2,TRUE,TRUE,TRUE,TRUE,East-West Cliff Edge Path,0,0,0,0,The Cliff Edge Path continues,TRUE
+15,2,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+16,2,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+17,2,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+18,2,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+19,2,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+20,2,TRUE,TRUE,TRUE,TRUE,North-South Short Path,0,0,0,0,The Short Path continues,TRUE
+21,2,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,2,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,2,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+24,2,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,3,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+2,3,TRUE,TRUE,TRUE,TRUE,North-South Bridge,0,0,0,0,The Bridge continues,TRUE
+3,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+4,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+5,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+6,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+7,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+8,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+9,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+10,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+11,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+12,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+13,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+14,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+15,3,TRUE,TRUE,TRUE,TRUE,CANYON DEATH,0,0,100,You fell off the cliff. Good Riddance!,Death by Canyon,TRUE
+16,3,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,3,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,3,TRUE,TRUE,TRUE,TRUE,Grassy Plain,0,6,0,0,You see Grassy Plains,TRUE
+19,3,TRUE,TRUE,TRUE,TRUE,Grassy Plain,0,0,0,0,You see Grassy Plains,TRUE
+20,3,TRUE,TRUE,TRUE,TRUE,North-South Short Path,0,0,0,0,The Short Path continues,TRUE
+21,3,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,3,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,3,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+24,3,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,4,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,4,TRUE,TRUE,TRUE,TRUE,Flower Fields Trail,0,0,0,0,The Flower Fields Trail continues,TRUE
+2,4,TRUE,TRUE,TRUE,TRUE,North-South Bridge,0,0,0,0,A Bridge appears,TRUE
+3,4,TRUE,TRUE,FALSE,TRUE,Melancholy Gard,7,0,0,0,The halls of Melancholy Gard continue,TRUE
+4,4,TRUE,TRUE,TRUE,TRUE,Melancholy Gard,2,0,0,0,The halls of Melancholy Gard continue,TRUE
+5,4,TRUE,TRUE,TRUE,TRUE,Melancholy Gard,0,0,0,0,The halls of Melancholy Gard continue,TRUE
+6,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+7,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+12,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,4,TRUE,TRUE,TRUE,TRUE,Grassy Plain,0,0,0,0,You see Grassy Plains,TRUE
+19,4,TRUE,TRUE,TRUE,TRUE,Grassy Plain,0,0,0,0,You see Grassy Plains,TRUE
+20,4,TRUE,TRUE,TRUE,TRUE,North-South Short Path,0,0,0,0,The Short Path continues,TRUE
+21,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,4,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+24,4,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,5,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,5,TRUE,TRUE,TRUE,TRUE,Flower Fields Trail,0,0,0,0,The Flower Fields Trail continues,TRUE
+2,5,TRUE,TRUE,TRUE,TRUE,Door,0,0,0,0,"There is a door labeled ""Melancholy Gard""",TRUE
+3,5,TRUE,TRUE,FALSE,TRUE,Melancholy Gard,0,0,0,0,The halls of Melancholy Gard continue,TRUE
+4,5,TRUE,TRUE,TRUE,TRUE,Melancholy Gard,0,0,0,0,The halls of Melancholy Gard continue,TRUE
+5,5,TRUE,TRUE,TRUE,TRUE,Melancholy Gard,0,0,0,0,The halls of Melancholy Gard continue,TRUE
+6,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+7,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+8,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+9,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+10,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+11,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+12,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+13,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+14,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+15,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+16,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+17,5,TRUE,TRUE,TRUE,TRUE,East-West Ignitrous Path,0,0,0,0,Ignitrous Path continues,TRUE
+18,5,TRUE,TRUE,TRUE,TRUE,Crossroads of Torteni,0,0,0,0,The Crossroads of Torteni lie,TRUE
+19,5,TRUE,TRUE,TRUE,TRUE,Grassy Plain,0,7,0,0,You see Grassy Plains,TRUE
+20,5,TRUE,TRUE,TRUE,TRUE,Well,10,0,0,0,A Well stands,TRUE
+21,5,TRUE,TRUE,TRUE,TRUE,Ancient Cult Corridor,0,0,0,0,The Ancient Cult Corridor continues,TRUE
+22,5,TRUE,TRUE,TRUE,TRUE,Ancient Cult Corridor,0,0,0,0,The Ancient Cult Corridor continues,TRUE
+23,5,TRUE,TRUE,TRUE,TRUE,Ancient Cult Corridor,0,11,0,0,The Ancient Cult Corridor continues,TRUE
+24,5,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,6,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,6,TRUE,TRUE,TRUE,TRUE,Flower Fields Trail,0,0,0,0,The Flower Fields Trail continues,TRUE
+2,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,6,TRUE,TRUE,TRUE,TRUE,Melancholy Gard,0,0,0,0,The halls of Melancholy Gard continue,TRUE
+4,6,TRUE,TRUE,TRUE,TRUE,Melancholy Gard,0,2,0,0,The halls of Melancholy Gard continue,TRUE
+5,6,TRUE,TRUE,TRUE,TRUE,Melancholy Gard,0,0,0,0,The halls of Melancholy Gard continue,TRUE
+6,6,TRUE,TRUE,TRUE,TRUE,Melancholy Gard,0,1,0,0,The halls of Melancholy Gard continue,TRUE
+7,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,6,TRUE,TRUE,TRUE,TRUE,North-South Harbury Path,0,0,0,0,The Harbury Path continues,TRUE
+12,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,6,TRUE,TRUE,TRUE,TRUE,North-South Metaornous Path,0,0,0,0,The Metaornous Path continues,TRUE
+19,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,6,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,6,TRUE,TRUE,TRUE,TRUE,Ancient Cult Corridor,0,0,0,0,The Ancient Cult Corridor continues,TRUE
+23,6,TRUE,TRUE,TRUE,TRUE,Ancient Cult Corridor,0,9,0,0,The Ancient Cult Corridor continues,TRUE
+24,6,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,7,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,7,TRUE,TRUE,TRUE,TRUE,Flower Fields Trail,0,0,0,0,The Flower Fields Trail continues,TRUE
+2,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+4,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+5,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+7,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,7,TRUE,TRUE,TRUE,TRUE,North-South Harbury Path,0,0,0,0,The Harbury Path continues,TRUE
+12,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,7,TRUE,TRUE,TRUE,TRUE,North-South Metaornous Path,0,0,0,0,The Metaornous Path continues,TRUE
+19,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,7,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,7,TRUE,TRUE,TRUE,TRUE,Ancient Cult Corridor,0,8,0,0,The Ancient Cult Corridor continues,TRUE
+23,7,TRUE,TRUE,TRUE,TRUE,Ancient Cult Corridor,0,8,0,0,The Ancient Cult Corridor continues,TRUE
+24,7,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,8,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,8,TRUE,TRUE,TRUE,TRUE,Flower Fields Trail,0,0,0,0,The Flower Fields Trail continues,TRUE
+2,8,TRUE,TRUE,TRUE,TRUE,Flower Fields Trail,0,0,0,0,The Flower Fields Trail continues,TRUE
+3,8,TRUE,TRUE,TRUE,TRUE,Flower Fields Trail,0,0,0,0,The Flower Fields Trail continues,TRUE
+4,8,TRUE,TRUE,TRUE,TRUE,Flower Fields Trail,0,0,0,0,The Flower Fields Trail continues,TRUE
+5,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,8,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+7,8,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+8,8,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+9,8,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+10,8,TRUE,TRUE,TRUE,TRUE,Chance Your Death Path,0,0,0,0,The Chance Your Death Path is,TRUE
+11,8,TRUE,TRUE,TRUE,TRUE,North-South Harbury Path,0,0,0,0,The Harbury Path continues,TRUE
+12,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,8,TRUE,TRUE,TRUE,TRUE,North-South Metaornous Path,0,0,0,0,The Metaornous Path continues,TRUE
+19,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,8,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,8,TRUE,TRUE,TRUE,TRUE,Ancient Cult Corridor,0,8,0,0,The Ancient Cult Corridor continues,TRUE
+23,8,TRUE,TRUE,TRUE,TRUE,Ancient Cult Corridor,0,8,0,0,The Ancient Cult Corridor continues,TRUE
+24,8,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,9,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,9,TRUE,TRUE,TRUE,TRUE,Mildy Hazardous Flower Fields,0,0,2,You stretched out your arms and brushed them against some poisonous flowers… alas you have perished... surrounded by beautiful things at least.,There is a suspicious looking flower patch,TRUE
+2,9,TRUE,TRUE,TRUE,TRUE,Mildy Hazardous Flower Fields,0,0,2,You stretched out your arms and brushed them against some poisonous flowers… alas you have perished... surrounded by beautiful things at least.,There is a suspicious looking flower patch,TRUE
+3,9,TRUE,TRUE,TRUE,TRUE,Mildy Hazardous Flower Fields,0,0,2,You stretched out your arms and brushed them against some poisonous flowers… alas you have perished... surrounded by beautiful things at least.,There is a suspicious looking flower patch,TRUE
+4,9,TRUE,TRUE,TRUE,TRUE,Flower Fields Trail,0,0,0,0,The Flower Fields Trail continues,TRUE
+5,9,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,9,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+7,9,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+8,9,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+9,9,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+10,9,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,9,TRUE,TRUE,TRUE,TRUE,North-South Harbury Path,0,0,0,0,The Harbury Path continues,TRUE
+12,9,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,9,TRUE,TRUE,TRUE,TRUE,Dubious Spot,0,0,100,You wandered too far and plunged too your death… maybe you were too greedy!,There is a Dubious Spot,TRUE
+14,9,TRUE,TRUE,TRUE,TRUE,East-West Treasure Path,12,0,0,0,The Treasure Path continues,TRUE
+15,9,TRUE,TRUE,TRUE,TRUE,East-West Treasure Path,13,0,0,0,The Treasure Path continues,TRUE
+16,9,TRUE,TRUE,TRUE,TRUE,East-West Treasure Path,14,0,0,0,The Treasure Path continues,TRUE
+17,9,TRUE,TRUE,TRUE,TRUE,East-West Treasure Path,0,0,0,0,The Treasure Path continues,TRUE
+18,9,TRUE,TRUE,TRUE,TRUE,North-South Metaornous Path,0,0,0,0,The Metaornous Path continues,TRUE
+19,9,TRUE,TRUE,TRUE,TRUE,East-West Tiny Path,0,0,0,0,The Tiny Path continues,TRUE
+20,9,TRUE,TRUE,TRUE,TRUE,East-West Tiny Path,0,0,0,0,The Tiny Path continues,TRUE
+21,9,TRUE,TRUE,TRUE,TRUE,East-West Tiny Path,0,0,0,0,The Tiny Path continues,TRUE
+22,9,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,9,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+24,9,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,10,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,10,TRUE,TRUE,TRUE,TRUE,Mildy Hazardous Flower Fields,0,0,2,You stretched out your arms and brushed them against some poisonous flowers… alas you have perished... surrounded by beautiful things at least.,There is a suspicious looking flower patch,TRUE
+2,10,TRUE,TRUE,TRUE,TRUE,Mildy Hazardous Flower Fields,0,0,2,You stretched out your arms and brushed them against some poisonous flowers… alas you have perished... surrounded by beautiful things at least.,There is a suspicious looking flower patch,TRUE
+3,10,TRUE,TRUE,TRUE,TRUE,Mildy Hazardous Flower Fields,0,0,2,You stretched out your arms and brushed them against some poisonous flowers… alas you have perished... surrounded by beautiful things at least.,There is a suspicious looking flower patch,TRUE
+4,10,TRUE,TRUE,TRUE,TRUE,North-South Talonery Path,0,3,0,0,The Talonery Path continues,TRUE
+5,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,10,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+7,10,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+8,10,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+9,10,TRUE,TRUE,TRUE,TRUE,BEHEADING GAME,0,0,2,YOU DIED. And for no reason too…. Literally why did you enter into this space again???? ,There is a Beheading Game spot,TRUE
+10,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,10,TRUE,TRUE,TRUE,TRUE,North-South Harbury Path,0,0,0,0,The Harbury Path continues,TRUE
+12,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,10,TRUE,TRUE,TRUE,TRUE,North-South Metaornous Path,0,0,0,0,The Metaornous Path continues,TRUE
+19,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,10,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+24,10,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,11,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,11,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+2,11,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,11,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+4,11,TRUE,TRUE,TRUE,TRUE,North-South Talonery Path,0,0,0,0,The Talonery Path continues,TRUE
+5,11,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,11,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+7,11,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,11,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,11,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,11,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,11,TRUE,TRUE,TRUE,TRUE,North-South Harbury Path,0,0,0,0,The Harbury Path continues,TRUE
+12,11,TRUE,TRUE,TRUE,TRUE,East-West Haha Path,0,0,0,0,The Haha Path continues,TRUE
+13,11,TRUE,TRUE,TRUE,TRUE,East-West Haha Path,0,0,0,0,The Haha Path continues,TRUE
+14,11,TRUE,TRUE,TRUE,TRUE,East-West Haha Path,0,0,0,0,The Haha Path continues,TRUE
+15,11,TRUE,TRUE,TRUE,TRUE,East-West Haha Path,0,0,0,0,The Haha Path continues,TRUE
+16,11,TRUE,TRUE,TRUE,TRUE,East-West Haha Path,0,0,0,0,The Haha Path continues,TRUE
+17,11,TRUE,TRUE,TRUE,TRUE,East-West Haha Path,0,0,0,0,The Haha Path continues,TRUE
+18,11,TRUE,TRUE,TRUE,TRUE,The Crossroads of Morkeni,0,0,0,0,the crossroads of Morkeni lie,TRUE
+19,11,TRUE,TRUE,TRUE,TRUE,East-West Quantum pitch,0,0,0,0,… the quantum pitch continues,TRUE
+20,11,TRUE,TRUE,TRUE,TRUE,East-West Quantum pitch,0,0,0,0,… the quantum pitch continues,TRUE
+21,11,TRUE,TRUE,TRUE,TRUE,East-West Quantum pitch,0,0,0,0,… the quantum pitch continues,TRUE
+22,11,TRUE,TRUE,TRUE,TRUE,East-West Quantum pitch,0,0,0,0,… the quantum pitch continues,TRUE
+23,11,TRUE,TRUE,TRUE,TRUE,East-West Quantum pitch,0,0,0,0,… the quantum pitch continues,TRUE
+24,11,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,12,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,12,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,12,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+3,12,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,4,0,0,0,The Road to Nowhere continues,TRUE
+4,12,TRUE,TRUE,TRUE,TRUE,North-South Talonery Path,0,0,0,0,The Talonery Path continues,TRUE
+5,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+7,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,12,TRUE,TRUE,TRUE,TRUE,North-South Harbury Path,0,0,0,0,The Harbury Path continues,TRUE
+12,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,12,TRUE,TRUE,TRUE,TRUE,Pile of Leaves,0,0,0,0,There is a Pile of Leaves,TRUE
+19,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,12,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,12,TRUE,TRUE,TRUE,TRUE,Falling Boulders Path,0,0,2,You were hit by a falling boulder… guess you should've brought something to protect your head with…,The Falling Boulders Path continues,TRUE
+24,12,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,13,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,13,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+4,13,TRUE,TRUE,TRUE,TRUE,North-South Talonery Path,0,0,0,0,The Talonery Path continues,TRUE
+5,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+7,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,13,TRUE,TRUE,TRUE,TRUE,North-South Talonery Path,0,0,0,0,The Talonery Path continues,TRUE
+12,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,13,TRUE,TRUE,TRUE,TRUE,North-South Uncertain Path,0,0,0,0,The Uncertain Path continues,TRUE
+19,13,TRUE,TRUE,TRUE,TRUE,Side Spot,0,0,0,0,There appears a Side Spot,TRUE
+20,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,13,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,13,TRUE,TRUE,TRUE,TRUE,Falling Boulders Path,0,0,2,You were hit by a falling boulder… guess you should've brought something to protect your head with…,The Falling Boulders Path continues,TRUE
+24,13,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,14,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,14,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+4,14,TRUE,TRUE,TRUE,TRUE,North-South Talonery Path,0,0,0,0,The Talonery Path continues,TRUE
+5,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+7,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,14,TRUE,TRUE,TRUE,TRUE,North-South Harbury Path,0,0,0,0,The Harbury Path continues,TRUE
+12,14,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+13,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,14,TRUE,TRUE,TRUE,TRUE,Maze Path,9,0,0,0,The Maze Path continues,TRUE
+16,14,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+17,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,14,TRUE,TRUE,TRUE,TRUE,North-South Uncertain Path,0,0,0,0,The Uncertain Path continues,TRUE
+19,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,14,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,14,TRUE,TRUE,TRUE,TRUE,Falling Boulders Path,0,0,2,You were hit by a falling boulder… guess you should've brought something to protect your head with…,The Falling Boulders Path continues,TRUE
+24,14,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,15,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,15,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+4,15,TRUE,TRUE,TRUE,TRUE,North-South Talonery Path,0,0,0,0,The Talonery Path continues,TRUE
+5,15,TRUE,TRUE,TRUE,TRUE,Cave of Uncertainty,0,0,0,0,The Cave of Uncertainty continues,TRUE
+6,15,TRUE,TRUE,TRUE,TRUE,Cave of Uncertainty,0,0,0,0,The Cave of Uncertainty continues,TRUE
+7,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+12,15,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+13,15,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+14,15,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+15,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,15,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+17,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,15,TRUE,TRUE,TRUE,TRUE,North-South Uncertain Path,0,0,0,0,The Uncertain Path continues,TRUE
+19,15,TRUE,TRUE,TRUE,TRUE,Side Spot,6,0,0,0,There appears a Side Spot,TRUE
+20,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,15,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,15,TRUE,TRUE,TRUE,TRUE,Falling Boulders Path,0,0,2,You were hit by a falling boulder… guess you should've brought something to protect your head with…,The Falling Boulders Path continues,TRUE
+24,15,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,16,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,16,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+4,16,TRUE,TRUE,TRUE,TRUE,North-South Talonery Path,0,0,0,0,The Talonery Path continues,TRUE
+5,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,16,TRUE,TRUE,TRUE,TRUE,Cave of Uncertainty,0,0,0,0,The Cave of Uncertainty continues,TRUE
+7,16,TRUE,TRUE,TRUE,TRUE,Cave of Uncertainty,0,12,0,0,The Cave of Uncertainty continues,TRUE
+8,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+12,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,16,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+15,16,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+16,16,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+17,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+19,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,16,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,16,TRUE,TRUE,TRUE,TRUE,Falling Boulders Path,0,0,2,You were hit by a falling boulder… guess you should've brought something to protect your head with…,The Falling Boulders Path continues,TRUE
+24,16,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,17,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,17,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+4,17,TRUE,TRUE,TRUE,TRUE,North-South Talonery Path,0,0,0,0,The Talonery Path continues,TRUE
+5,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+7,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+9,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+11,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+12,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,17,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+16,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+19,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,17,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,17,TRUE,TRUE,TRUE,TRUE,Falling Boulders Path,0,0,2,You were hit by a falling boulder… guess you should've brought something to protect your head with…,The Falling Boulders Path continues,TRUE
+24,17,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,18,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,18,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,18,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,18,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+4,18,TRUE,TRUE,TRUE,TRUE,East-West Erie Path,0,0,0,0,The Erie Path continues,TRUE
+5,18,TRUE,TRUE,TRUE,TRUE,East-West Erie Path,0,0,0,0,The Erie Path continues,TRUE
+6,18,TRUE,TRUE,TRUE,TRUE,East-West Erie Path,0,0,0,0,The Erie Path continues,TRUE
+7,18,TRUE,TRUE,TRUE,TRUE,East-West Erie Path,0,0,0,0,The Erie Path continues,TRUE
+8,18,TRUE,TRUE,TRUE,TRUE,East-West Erie Path,0,5,0,0,The Erie Path continues,TRUE
+9,18,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+10,18,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+11,18,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+12,18,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+13,18,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,18,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,18,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+16,18,TRUE,TRUE,TRUE,TRUE,Maze Path,8,0,0,0,The Maze Path continues,TRUE
+17,18,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+18,18,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+19,18,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,18,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+21,18,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,18,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,18,TRUE,TRUE,TRUE,TRUE,Falling Boulders Path,11,0,0,0,The Falling Boulders Path continues,TRUE
+24,18,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,19,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,19,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+3,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+4,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+5,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+6,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+7,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+8,19,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+9,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+10,19,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+11,19,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+12,19,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+13,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+14,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,19,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+19,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,19,TRUE,TRUE,TRUE,TRUE,Death Troll,0,10,4,The Death Troll clubbed you to death… ,There is a room with a dark shadow,TRUE
+21,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,19,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+24,19,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,20,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,20,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,20,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+3,20,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+4,20,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+5,20,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+6,20,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+7,20,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+8,20,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+9,20,TRUE,TRUE,TRUE,TRUE,Dragon's Den,0,0,0,0,The halls of a Dragon's Den continue,TRUE
+10,20,TRUE,TRUE,TRUE,TRUE,Dragon's Den,0,0,0,0,The halls of a Dragon's Den continue,TRUE
+11,20,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+12,20,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+13,20,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+14,20,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+15,20,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,20,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,20,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,20,TRUE,TRUE,TRUE,TRUE,Maze Path,3,0,0,0,The Maze Path continues,TRUE
+19,20,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,20,TRUE,TRUE,TRUE,TRUE,Fullstack Path,0,0,0,0,The Fullstack Path continues,TRUE
+21,20,TRUE,TRUE,TRUE,TRUE,Fullstack Path,0,0,0,0,The Fullstack Path continues,TRUE
+22,20,TRUE,TRUE,TRUE,TRUE,Fullstack Path,0,0,0,0,The Fullstack Path continues,TRUE
+23,20,TRUE,TRUE,TRUE,TRUE,Fullstack Path,0,0,0,0,The Fullstack Path continues,TRUE
+24,20,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,21,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,21,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,21,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+3,21,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+4,21,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+5,21,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+6,21,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+7,21,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+8,21,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+9,21,TRUE,TRUE,TRUE,TRUE,Dragon's Den,0,0,0,0,The halls of a Dragon's Den continue,TRUE
+10,21,TRUE,TRUE,TRUE,TRUE,Dragon's Den,0,0,0,0,The halls of a Dragon's Den continue,TRUE
+11,21,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+12,21,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+13,21,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+14,21,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+15,21,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+16,21,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,21,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,21,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+19,21,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,21,TRUE,TRUE,TRUE,TRUE,North-South Afterthought Path,0,0,0,0,The Afterthought Path continues,TRUE
+21,21,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,21,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,21,TRUE,TRUE,TRUE,TRUE,North-South Pitch Dark Path,0,0,0,0,The Pitch Dark Path continues,TRUE
+24,21,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,22,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,22,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,0,0,0,The Road to Nowhere continues,TRUE
+2,22,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+3,22,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+4,22,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+5,22,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+6,22,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+7,22,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+8,22,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+9,22,TRUE,TRUE,TRUE,TRUE,Dragon's Den,0,0,0,0,The halls of a Dragon's Den continue,TRUE
+10,22,TRUE,TRUE,TRUE,TRUE,Dragon's Den,0,0,0,0,The halls of a Dragon's Den continue,TRUE
+11,22,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+12,22,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+13,22,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+14,22,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+15,22,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+16,22,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+17,22,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,22,TRUE,TRUE,TRUE,TRUE,Maze Path,0,0,0,0,The Maze Path continues,TRUE
+19,22,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+20,22,TRUE,TRUE,TRUE,TRUE,North-South Afterthought Path,0,0,0,0,The Afterthought Path continues,TRUE
+21,22,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,22,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,22,TRUE,TRUE,TRUE,TRUE,North-South Pitch Dark Path,0,0,0,0,Pitch Dark Path continues,TRUE
+24,22,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,23,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,23,TRUE,TRUE,TRUE,TRUE,North-South Road to Nowhere,0,4,0,0,The Road to Nowhere continues,TRUE
+2,23,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+3,23,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+4,23,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+5,23,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+6,23,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+7,23,TRUE,TRUE,TRUE,TRUE,Quicksand,0,0,3,You suffocated. It seems you couldn't figure out how to breathe after seeing the insane beauty of the sand…,There is a patch of suspicious looking sand,TRUE
+8,23,TRUE,TRUE,TRUE,TRUE,Flooded River Maze Path,0,0,0,0,The Flooded River Maze Path continues,TRUE
+9,23,TRUE,TRUE,TRUE,TRUE,Dragon's Den,0,0,0,0,The halls of a Dragon's Den continue,TRUE
+10,23,TRUE,TRUE,TRUE,TRUE,Dragon's Den,0,0,0,0,The halls of a Dragon's Den continue,TRUE
+11,23,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+12,23,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+13,23,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+14,23,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+15,23,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+16,23,FALSE,FALSE,FALSE,FALSE,Uncrossable River,0,0,0,0,The Uncrossable River lies,FALSE
+17,23,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+18,23,TRUE,TRUE,TRUE,TRUE,Troll Path,0,13,0,0,The Troll Path continues,TRUE
+19,23,TRUE,TRUE,TRUE,TRUE,Troll Path,0,0,0,0,The Troll Path continues,TRUE
+20,23,TRUE,TRUE,TRUE,TRUE,Troll Path,0,0,0,0,The Troll Path continues,TRUE
+21,23,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+22,23,FALSE,FALSE,FALSE,FALSE,Wall,0,0,0,0,There is a Wall,FALSE
+23,23,TRUE,TRUE,TRUE,TRUE,North-South Pitch Dark Path,5,0,0,0,The Pitch Dark Path continues,TRUE
+24,23,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+0,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+1,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+2,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+3,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+4,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+5,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+6,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+7,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+8,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+9,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+10,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+11,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+12,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+13,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+14,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+15,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+16,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+17,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+18,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+19,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+20,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+21,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+22,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+23,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
+24,24,FALSE,FALSE,FALSE,FALSE,Force Field,0,0,100,You walked into a Force Field. And Died. Too bad….,There is a Force Field here….,FALSE
